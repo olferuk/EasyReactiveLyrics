@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Kanna (1.0.6)
+  - RxBlocking (2.4):
+    - RxSwift (~> 2.4)
+  - RxCocoa (2.4):
+    - RxSwift (~> 2.4)
+  - RxSwift (2.4)
+  - RxTests (2.4):
+    - RxSwift (~> 2.4)
+  - SwiftString (0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - Kanna (~> 1.0)
+  - RxBlocking (~> 2.4)
+  - RxCocoa (~> 2.4)
+  - RxSwift (~> 2.4)
+  - RxTests (~> 2.4)
+  - SwiftString (~> 0.5)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Kanna: 9f30945bbd293a609f698ea164687ccc0990ff60
+  RxBlocking: 1226c1fa0ca1e0ca5f964d4330ca3649f2128680
+  RxCocoa: 7d6cd877de99f5640306b3d6cf87f580c1d91b61
+  RxSwift: 67b9ef4e8b34fb394e200e754c6a09cc16559f94
+  RxTests: 8b9691e6476dfa6025fae9a69f449bf4cb5e5cfc
+  SwiftString: ec9c31c55b2aa147a1154f5f5f8483dc71e3165f
+
+PODFILE CHECKSUM: 60d70c7b930dca3eba34581bd0c5c6fe6d45302b
+
+COCOAPODS: 1.0.0.beta.8
